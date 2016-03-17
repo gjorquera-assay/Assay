@@ -1,0 +1,36 @@
+
+http://200.55.212.107/home/login.handler
+
+Datos de Prueba
+
+7299952-5
+10736886-8
+10668795-1
+7299952-5
+
+Clave: 1234
+
+
+
+
+
+Transferencias. 
+
+Crear destinatario.
+
+Modificar destinatario.
+
+Pago EPU.
+
+
+<input id="j_id256383980_78530d98:j_id256383980_78530ecf" name="j_id256383980_78530d98:j_id256383980_78530ecf" type="submit" value="Siguiente" class="btn btn-trans" />
+
+367314ea-c9f3-44e0-8afb-722d37ebb8fc
+367314ea-c9f3-44e0-8afb-722d37ebb8fc
+300529c0-83cc-4da7-9c14-a59b620ceb28
+k00529c0-83cc-4da7-9c14-a59b620ceb28
+
+<select id="formTx:selector:selectedDestinationMemberId" name="formTx:selector:selectedDestinationMemberId" size="1">	<option value=" ">-----</option>	<option value="b9c5369a-5ddf-4a90-b895-400680ab3f09">Cuenta vista 4040007877 </option>	<option value="b71e77c6-8f23-40d4-ad4e-4c235fe71264">Linea de credito en pesos 4400006539 - Deuda $ 0</option>	<option value="d184b7cc-7c8e-4ce3-b361-9efda692bb39">Mastercard clasica XXXX-XXXX-XXXX-8425 - Deuda $ 121.308</option></select>
+
+
+name="formTx:selector:selectedDestinationMemberId" size="1">[^/]*/option>[<option value="([^"]*)"]*
